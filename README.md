@@ -21,6 +21,6 @@
 - 🌟 Check out my GitHub and projects to learn more!
 
 ### 💬 Get in Touch
-- Want to collaborate, share ideas, or just chat? Reach me @[Contact](https://github.com/AlphaTech-01).
+- Want to collaborate, share ideas, or just chat? Reach me @[Contact](ajay.22320094@viit.ac.in).
 
 Let's connect and build innovative solutions together! 🚀
