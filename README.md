@@ -3,15 +3,8 @@
 ### `Flutter Developer` · `Mobile & Web Engineer` · `API & Real-Time Systems`
 
 <p align="center">
-  <a href="https://github.com/AlphaTech-01">
-    <img src="https://komarev.com/ghpvc/?username=AlphaTech-01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/AlphaTech-01?tab=followers">
-    <img src="https://img.shields.io/github/followers/AlphaTech-01?label=Followers&style=flat" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/AlphaTech-01">
-    <img src="https://img.shields.io/github/created-at/AlphaTech-01?label=GitHub%20since&style=flat" alt="GitHub since"/>
-  </a>
+  <a href="https://github.com/AlphaTech-01?tab=followers"><img src="https://img.shields.io/github/followers/AlphaTech-01?label=Followers&style=flat" alt="Followers"/></a>
+  <a href="https://github.com/AlphaTech-01?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Live%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
 <p align="center">
@@ -52,22 +45,21 @@
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaTech-01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaTech-01&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+  <img src="./assets/github-stats.svg" alt="Live GitHub statistics" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlphaTech-01&hide_border=true" height="170" alt="GitHub contribution streak"/>
+  <img src="./assets/github-activity.svg" alt="Recent GitHub activity" width="900"/>
 </p>
 
-### 🟢 Contribution Activity
+> **Stable live cards:** generated inside this repository from the GitHub REST API and refreshed automatically by GitHub Actions.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaTech-01&hide_border=true&area=true" alt="GitHub activity graph"/>
-</p>
+### 🔎 Explore More
+
+[Repositories](https://github.com/AlphaTech-01?tab=repositories) · [Activity](https://github.com/AlphaTech-01?tab=activity) · [Contribution Graph](https://github.com/AlphaTech-01)
 
 ---
 

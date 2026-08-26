@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<rect width="900" height="260" rx="14" fill="#0d1117"/>
+<text x="40" y="42" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="22" font-weight="700">Recent GitHub Activity</text>
+<text x="40" y="68" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">Generated from the public GitHub Events API</text>
+<text x="40" y="125" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Waiting for the first automated update.</text>
+<text x="40" y="154" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">GitHub Actions will replace this card with your actual recent activity.</text>
+<text x="40" y="214" fill="#58a6ff" font-family="Arial,sans-serif" font-size="13">View full activity → github.com/AlphaTech-01?tab=activity</text>
+</svg>
