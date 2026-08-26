@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate live GitHub profile data
         env:
@@ -29,5 +29,6 @@ jobs:
           git add assets/github-stats.svg assets/github-activity.svg
           git diff --cached --quiet || git commit -m "chore: update GitHub profile stats"
           git push
+
 
 
