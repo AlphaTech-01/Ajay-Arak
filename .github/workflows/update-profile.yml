@@ -29,3 +29,5 @@ jobs:
           git add assets/github-stats.svg assets/github-activity.svg
           git diff --cached --quiet || git commit -m "chore: update GitHub profile stats"
           git push
+
+
