@@ -1,157 +1,285 @@
-# Hi, I'm Ajay Rajendra Arak 👋
+# 👋 Hi, I'm Ajay Rajendra Arak
 
-### Flutter Developer | Mobile & Web Engineer | API & Real-Time Systems
+### `Flutter Developer` · `Mobile & Web Engineer` · `API & Real-Time Systems`
 
-I’m a **Flutter Developer** with hands-on production experience building and debugging **Android, iOS, and Web applications**. I currently work on a live healthcare technology platform where I contribute across mobile UI, web modules, REST APIs, real-time systems, analytics, and production support.
+<p align="center">
+  <a href="https://github.com/AlphaTech-01">
+    <img src="https://komarev.com/ghpvc/?username=AlphaTech-01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/AlphaTech-01?tab=followers">
+    <img src="https://img.shields.io/github/followers/AlphaTech-01?label=Followers&style=flat" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/AlphaTech-01">
+    <img src="https://img.shields.io/github/created-at/AlphaTech-01?label=GitHub%20since&style=flat" alt="GitHub since"/>
+  </a>
+</p>
 
-I enjoy turning product requirements into reliable, scalable experiences — from responsive interfaces and platform-adaptive iOS components to API integrations, WebSocket features, video communication, and data-driven tooling.
-
----
-
-## 🚀 What I Work On
-
-* 📱 **Flutter Development** — Android, iOS & responsive Web
-* 🎨 **Platform-Adaptive UI** — Material + Cupertino, iOS HIG, reusable widgets
-* 🔌 **API Engineering** — REST API integration and API development
-* ⚡ **Real-Time Systems** — WebSocket, live tracking, auto-refresh
-* 🎥 **Video & Communication** — VideoSDK / WebRTC
-* 🤖 **AI Integration** — Vedika AI, conversational UI and analytics
-* 📊 **Analytics** — BigQuery, event tracking and billing analytics
-* ☁️ **Cloud** — Firebase, GCP, AWS & Azure research
-* 🐛 **Debugging & Testing** — Cross-platform regression and production issue resolution
+<p align="center">
+  <b>Building production applications • integrating systems • debugging what breaks • shipping what matters</b>
+</p>
 
 ---
 
-## 💼 Production Experience
+## ⚡ What I'm Doing
 
-### Flutter Developer Intern — Vedika HealthTech
+```text
+📱 Flutter / Dart          → Android · iOS · Web
+🔌 APIs & Backend          → REST · Node.js · Firebase
+⚡ Real-Time               → WebSocket · Live Tracking
+🎥 Communication           → VideoSDK · WebRTC
+🤖 AI Integration          → Vedika AI · Conversational UI
+📊 Analytics               → BigQuery · Event Tracking
+☁️ Cloud                   → Firebase · GCP · AWS · Azure
+🧪 Engineering             → Testing · Debugging · Git · Agile
+```
 
-**March 2026 – Present**
-
-Working across the **Vedika User App, Vedika Plus App, Vedika Web, and Admin systems**.
-
-Key contributions include:
-
-* Built production features for **Doctor Consultation, Ambulance Booking, Medicine Ordering, Vedika AI, Health Records, and Admin modules**.
-* Developed a reusable **adaptive Flutter widget library** used across 16+ screens.
-* Implemented iOS-specific experiences including **Cupertino navigation, SafeArea handling, native pickers, haptics, adaptive dialogs, and 44pt touch targets**.
-* Integrated REST APIs across consultation, ambulance, medicine, health-record, refund, settlement, and onboarding workflows.
-* Implemented **WebSocket-based live updates**, ambulance tracking, route/traffic visualization, and development route simulation.
-* Integrated **VideoSDK/WebRTC** features including picture-in-picture, Bluetooth/speaker selection, quality metrics, and stability fixes.
-* Built the **Vedika AI** frontend experience and integrated AI, Support Chat/FAQ APIs and BigQuery analytics.
-* Built **Master Admin Billing Analytics** using BigQuery and contributed Favorites/Bookmarks APIs.
-* Performed recurring Android, iOS, Web and Desktop testing, root-causing and resolving production issues.
-* Worked with Git-based Agile workflows and production release verification.
+> I currently work on a live healthcare technology platform, contributing across the User App, Provider App, Web, and Admin systems.
 
 ---
 
-## 🧰 Tech Stack
+# 🧑‍💻 About Me
 
-### Languages
-
-`Dart` `Python` `JavaScript` `Java` `C++`
-
-### Mobile & Frontend
-
-`Flutter` `React` `Next.js` `HTML` `CSS` `Provider` `Bloc`
-
-### Backend & APIs
-
-`Node.js` `REST APIs` `WebSocket` `JSON`
-
-### Firebase & Cloud
-
-`Firebase Auth` `Firestore` `FCM` `Crashlytics` `BigQuery` `GCP` `AWS` `Azure`
-
-### Real-Time & Communication
-
-`WebSocket` `VideoSDK` `WebRTC`
-
-### AI / ML
-
-`Python` `Hugging Face` `IndicBART` `mT5` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
-
-### Tools
-
-`Git` `GitHub` `Android Studio` `VS Code` `Xcode` `Postman` `Figma` `Google Maps API`
+- 💼 **Flutter Developer Intern @ Vedika HealthTech**
+- 🗓️ Working on production systems since **March 2026**
+- 📱 Building for **Android + iOS + Web**
+- 🏥 Working across **Doctor Consultation, Ambulance, Medicine Ordering, Health Records & Vedika AI**
+- 🔌 Integrating and developing **REST APIs**
+- ⚡ Building **WebSocket-based real-time experiences**
+- 🎥 Working with **VideoSDK / WebRTC**
+- 📊 Building analytics features with **BigQuery**
+- 🐛 Enjoying the part of development where **"it works on my machine" isn't enough**
+- 🚀 Interested in **mobile engineering, backend systems, AI products, real-time applications and cloud**
 
 ---
 
-## 🔥 Featured Projects
+# 📈 GitHub Activity
 
-### 🏥 Vedika Healthcare Platform
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaTech-01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaTech-01&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlphaTech-01&hide_border=true" height="170" alt="GitHub contribution streak"/>
+</p>
+
+### 🟢 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaTech-01&hide_border=true&area=true" alt="GitHub activity graph"/>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 📱 Mobile & Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+### 🔌 Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
+</p>
+
+### ☁️ Firebase, Cloud & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/IndicBART-6C5CE7?style=flat"/>
+<img src="https://img.shields.io/badge/mT5-6C5CE7?style=flat"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🧰 Engineering Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Work
+
+## 🏥 Vedika Healthcare Platform
 
 **Flutter · Dart · React · REST APIs · WebSocket · VideoSDK · Firebase · BigQuery**
 
-Production healthcare platform spanning **doctor consultation, ambulance booking, medicine ordering, health records, and Vedika AI** across Android, iOS and Web.
+A production healthcare platform spanning **Doctor Consultation, Ambulance Booking, Medicine Ordering, Health Records and Vedika AI** across Android, iOS and Web.
 
-**Highlights**
+**Built / contributed to:**
 
-* Cross-platform feature development
-* Platform-adaptive mobile UI
-* REST API integration
-* WebSocket real-time updates
-* VideoSDK/WebRTC communication
-* Google Maps integration
-* BigQuery analytics
-* Cross-platform debugging and testing
-
-### 🤖 Multi-Language Abstractive Summarization
-
-**Python · Hugging Face · IndicBART · mT5 · Streamlit**
-
-Built a multilingual NLP summarization system for Indian regional languages using transformer models, with **ROUGE and BLEU evaluation** and an interactive Streamlit demonstration.
-
-### 📈 Customer Churn Prediction
-
-**Python · Scikit-learn · Machine Learning · Streamlit**
-
-Developed a classification pipeline with feature engineering and preprocessing, along with an interactive dashboard for prediction insights.
+- 📱 Cross-platform production features
+- 🍎 Platform-adaptive iOS UI using Cupertino patterns
+- 🔌 REST API integrations across multiple product modules
+- ⚡ WebSocket live updates and tracking
+- 🗺️ Google Maps and route visualization
+- 🎥 VideoSDK / WebRTC communication
+- 🤖 Vedika AI conversational experience
+- 📊 BigQuery analytics and event tracking
+- 🧪 Cross-platform regression testing
+- 🐛 Production debugging and root-cause analysis
 
 ---
 
-## 🧠 Engineering Focus
+## 🤖 Multi-Language Abstractive Summarization
+
+**Python · Hugging Face · IndicBART · mT5 · Streamlit**
+
+Built a multilingual NLP system supporting Indian regional languages using transformer-based models.
+
+- Transformer-based abstractive summarization
+- ROUGE / BLEU evaluation
+- Python ML pipeline
+- Interactive Streamlit demonstration
+
+---
+
+## 📈 Customer Churn Prediction
+
+**Python · Scikit-learn · Machine Learning · Streamlit**
+
+Built a classification pipeline for customer churn prediction with preprocessing, feature engineering and an interactive visualization dashboard.
+
+---
+
+# 🧩 Engineering Mindset
 
 ```text
-Build → Integrate → Test → Debug → Measure → Improve
+Requirement
+    ↓
+Design
+    ↓
+Implement
+    ↓
+Integrate
+    ↓
+Test
+    ↓
+Debug
+    ↓
+Measure
+    ↓
+Improve
+    ↓
+Ship 🚀
 ```
 
-I’m particularly interested in:
+I like working at the intersection of:
 
-* Cross-platform application architecture
-* Clean and maintainable UI systems
-* Backend/API integration
-* Real-time application development
-* AI-powered product experiences
-* Cloud and analytics engineering
-* Production debugging and reliability
-* Developer tooling and automation
+**Mobile × Backend × AI × Real-Time × Cloud**
+
+---
+
+# 🔥 Current Focus
+
+<table>
+<tr>
+<td>📱 <b>Flutter</b><br/>Cross-platform architecture</td>
+<td>⚡ <b>Real-Time</b><br/>WebSocket & WebRTC</td>
+<td>🤖 <b>AI</b><br/>AI-powered product experiences</td>
+</tr>
+<tr>
+<td>🔌 <b>APIs</b><br/>REST & backend integration</td>
+<td>📊 <b>Analytics</b><br/>BigQuery & event tracking</td>
+<td>☁️ <b>Cloud</b><br/>GCP · AWS · Azure</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning / Exploring
+
+- 🧠 AI-powered application architecture
+- ☁️ Cloud architecture and infrastructure
+- ⚡ Scalable real-time systems
+- 🔐 Production API reliability
+- 📊 Data-driven product engineering
+- 🧩 Better Flutter architecture and reusable components
+- 🛠️ Developer automation and CI/CD
+
+---
+
+# 🏆 Engineering Highlights
+
+| Area | Experience |
+|---|---|
+| 📱 Platforms | Android · iOS · Web · Desktop |
+| 🧱 UI Architecture | Reusable adaptive Flutter widgets |
+| 🔌 APIs | REST API integration + API development |
+| ⚡ Real-Time | WebSocket · Live tracking |
+| 🎥 Communication | VideoSDK · WebRTC |
+| ☁️ Cloud | Firebase · GCP · AWS · Azure |
+| 📊 Analytics | BigQuery · Event Tracking |
+| 🤖 AI | Vedika AI · Transformers · ML |
+| 🧪 Quality | Regression testing · Production debugging |
+| 🔀 Workflow | Git · GitHub · Agile |
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:arakrajendra2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arakrajendra2%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ajay-arak6751">
+    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Arak-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AlphaTech-01">
+    <img src="https://img.shields.io/badge/GitHub-AlphaTech--01-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology — Information Technology**
-Vishwakarma Institute of Information Technology (VIIT), Pune
+**Bachelor of Technology — Information Technology**  
+Vishwakarma Institute of Information Technology (VIIT), Pune  
 **2022 – 2026**
 
-### Certifications
-
-* AWS Academy — Fundamentals of Architecting on AWS
-* IBM Full Stack Software Developer Professional Certificate — Coursera
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [linkedin.com/in/ajay-arak6751](https://linkedin.com/in/ajay-arak6751)
-* 🐙 GitHub: [github.com/AlphaTech-01](https://github.com/AlphaTech-01)
-* 📧 Email: [arakrajendra2@gmail.com](mailto:arakrajendra2@gmail.com)
+**Certifications**
+- AWS Academy — Fundamentals of Architecting on AWS
+- IBM Full Stack Software Developer Professional Certificate — Coursera
 
 ---
 
-### ⚡ Currently Building
+<p align="center">
+  <i>Build with purpose. Debug with patience. Ship with confidence.</i>
+</p>
 
-**Production-grade Flutter applications, AI-powered healthcare experiences, real-time systems, and developer-friendly solutions.**
-
-> *Build with purpose. Debug with patience. Ship with confidence.* 🚀
+<p align="center">
+  <b>Thanks for visiting! ⭐ Feel free to explore my repositories.</b>
+</p>
